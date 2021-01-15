@@ -1,5 +1,3 @@
-# twitter_web_crawler
-
 <h1> Twitter web crawler </h1>
 
 Script created to collect data from Twitter website. 
